@@ -1,6 +1,12 @@
-This Tic-Tac-Toe game was created as an extra credit assignment for my Intro to Java course, CSE 11.  Below is the write up that I included for the program.
+#tictactoe
+
+<h2>Description</h2>
+
+This Tic-Tac-Toe game was created as an extra credit assignment for my Intro to Java course, CSE 11.  Below is the write up that I included for the program.  It is a simple, GUI oriented version of Tic-Tac-Toe that works using JFrame.
 
 <hr>
+
+<h2>Write-Up</h2>
 
 Hello, welcome to my extra credit for CSE 11, Tic-Tac-Toe.  This program has three methods: main, checkWin(), and actionPerformed(ActionEvent e), and one constructor: TicTacToe.
 
