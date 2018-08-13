@@ -1,11 +1,7 @@
-DECLAN SULLIVAN
-dhsulliv@ucsd.edu
-cs11sfn
-A14423280
+This Tic-Tac-Toe game was created as an extra credit assignment for my Intro to Java course, CSE 11.  Below is the write up that I included for the program.
 
-——————————————————————————————————————————————————————————————————————
-			       READ ME
-——————————————————————————————————————————————————————————————————————
+<hr>
+
 Hello, welcome to my extra credit for CSE 11, Tic-Tac-Toe.  This program has three methods: main, checkWin(), and actionPerformed(ActionEvent e), and one constructor: TicTacToe.
 
 
